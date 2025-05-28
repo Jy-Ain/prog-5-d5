@@ -1,6 +1,9 @@
 
 # Machine à Café - Application Java
 
+## ReadMe Link of Ricka Princy
+[Ricka Princy Readme Link](https://github.com/RickaPrincy/prog-5-d5/blob/main/README.md)
+
 ## Description
 
 Ce projet simule le fonctionnement d'une machine à café intelligente. Elle suit une architecture Clean Architecture (ou Hexagonale) pour garantir une séparation claire des responsabilités.
@@ -147,3 +150,4 @@ Développé par [Ton Nom]
 ## Licence
 
 Code open-source à but pédagogique. Licence MIT ou Creative Commons.
+
