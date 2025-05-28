@@ -1,5 +1,5 @@
-import { User } from './classes/User.js';
-import { Machine } from './classes/Machine.js';
+import { User } from "./classes/User.js";
+import { Machine } from "./classes/Machine.js";
 
 const user = new User();
 const machine = new Machine();
@@ -43,7 +43,6 @@ function runCoffeeMachine() {
       machine.showMessage("Boisson non récupérée.");
       machine.notifyMaintenance();
     }
-
   } catch (generalError) {
     console.error("Une erreur inattendue est survenue :", generalError.message);
   }

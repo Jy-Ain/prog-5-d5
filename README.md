@@ -1,7 +1,7 @@
-
 # Machine à Café - Application Java
 
 ## ReadMe Link of Ricka Princy
+
 [Ricka Princy Readme Link](https://github.com/RickaPrincy/prog-5-d5/blob/main/README.md)
 
 ## Description
@@ -45,25 +45,25 @@ Clean Architecture (Hexagonale) :
 
 machine-a-cafe/
 ├── domaine/
-│   ├── modele/
-│   │   ├── Coffee.java
-│   │   ├── Machine.java
-│   │   └── User.java
-│   ├── usecase/
-│   │   ├── PayCommand.java
-│   │   ├── ChooseCoffeeCommand.java
-│   │   └── DeliverCoffeeCommand.java
-│   └── exception/
-│       ├── NotEnoughMoneyException.java
-│       ├── OutOfStockException.java
-│       └── UnknownCoffeeException.java
+│ ├── modele/
+│ │ ├── Coffee.java
+│ │ ├── Machine.java
+│ │ └── User.java
+│ ├── usecase/
+│ │ ├── PayCommand.java
+│ │ ├── ChooseCoffeeCommand.java
+│ │ └── DeliverCoffeeCommand.java
+│ └── exception/
+│ ├── NotEnoughMoneyException.java
+│ ├── OutOfStockException.java
+│ └── UnknownCoffeeException.java
 ├── application/
-│   └── CoffeeMachineService.java
+│ └── CoffeeMachineService.java
 ├── infrastructure/
-│   └── (optionnel)
+│ └── (optionnel)
 └── ui/
-    └── console/
-        └── CoffeeMachineConsole.java
+└── console/
+└── CoffeeMachineConsole.java
 
 ## Règles métier
 
@@ -150,4 +150,3 @@ Développé par [Ton Nom]
 ## Licence
 
 Code open-source à but pédagogique. Licence MIT ou Creative Commons.
-
