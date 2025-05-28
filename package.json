@@ -1,0 +1,24 @@
+{
+  "name": "prog-5-d5",
+  "version": "1.0.0",
+  "description": "## ReadMe Link of Ricka Princy [Ricka Princy Readme Link](https://github.com/RickaPrincy/prog-5-d5/blob/main/README.md)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jy-Ain/prog-5-d5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jy-Ain/prog-5-d5/issues"
+  },
+  "homepage": "https://github.com/Jy-Ain/prog-5-d5#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
